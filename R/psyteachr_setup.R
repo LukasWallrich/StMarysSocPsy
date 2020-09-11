@@ -1,7 +1,8 @@
 # psyTeachR styles and functions
 # do not edit!!!!!
 
-library(tidyverse)
+library(dplyr)
+library(ggplot2)
 library(webex)
 
 # default knitr options
@@ -16,8 +17,8 @@ knitr::opts_chunk$set(
 )
 
 # make docs directory and include .nojekyll file for github
-if (!dir.exists('docs')) dir.create('docs')
-file.create('docs/.nojekyll')
+if (!dir.exists('_book')) dir.create('_book')
+file.create('_book/.nojekyll')
 
 ## set global theme options for figures
 theme_set(theme_bw())
