@@ -1,4 +1,4 @@
-# Getting started with Social Psychology
+# Altruism // close relationships
 
 Humans have been described as 'social animals' - it can plausibly be argued that our ability to cooperate in social groups is what sets us apart from our otherwise close animal relatives. This can obviously result in prosperity and beautiful cultural creations, but also in mass violence and destruction. Social psychology attempts to understand how individuals behave in groups, and thus what the conditions are for positive and negative outcomes to arise.
 
@@ -14,7 +14,5 @@ Once the video lecture is available, it will show here
 
 ## Recommended readings
 
-* Textbook: [Chapter 1](https://open.lib.umn.edu/socialpsychology/part/chapter-1-introducing-social-psychology/) and [Chapter 2](https://open.lib.umn.edu/socialpsychology/part/chapter-2-social-learning-and-social-cognition/) in *Principles of Social Psychology*
-
-* Further (non-academic) reading: *Humankind* by Rutger Bregman is a beautiful book that draws on social psychology and related disciplines to argue that humans are fundamentally good. It provides a novel perspective on many 'landmark' research findings and offers hope in these troubled times.
+* Textbook: [Chapter 9](https://open.lib.umn.edu/socialpsychology/part/chapter-9-helping-and-altruism/) and [Chapter 8](https://open.lib.umn.edu/socialpsychology/part/chapter-8-liking-and-loving/) in *Principles of Social Psychology*
 
