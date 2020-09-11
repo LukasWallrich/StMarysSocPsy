@@ -8,6 +8,9 @@ Once the video lecture is available, it will show here
 
 `r video_code("NOTFOUND")`
 
+
+You can <a href="./files/Lecture_5_-_critiquing_social_psychology.pptx">download the slides here</a>
+
 ## Preparation before class
 
 
