@@ -75,7 +75,7 @@ str(sleepData)
 ```
 ## [1] "numeric"
 ## 'data.frame':	2 obs. of  2 variables:
-##  $ day  : Factor w/ 2 levels "Saturday","Sunday": 1 2
+##  $ day  : chr  "Saturday" "Sunday"
 ##  $ hours: num  4 9
 ```
 
@@ -102,7 +102,7 @@ variableName <- mean(c(1,2,3, NA), na.rm = TRUE)
 ```
 
 ```
-## ##------ Tue Mar 24 19:34:37 2020 ------##
+## ##------ Fri Sep 11 11:07:47 2020 ------##
 ## [1] "Hello"
 ## [1] 2
 ## [1] 2
