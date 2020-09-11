@@ -28,11 +28,15 @@ knitr::write_bib(c(
 
 # Overview {-}
 
-This page shares the materials for  the Social Psychology part of the PSY4003 module and contains some further notes. I am keeping it here rather than on Moodle so that I can keep it open (see [Open Teaching Materials](#open-materials)). **It is a living document and will grow over time - [feel free to raise any issues and suggestions here](https://github.com/LukasWallrich/GoldCoreQuants/issues) and bring questions to the live sessions.**
+This page shares the materials for  the Social Psychology part of the PSY4003 module and contains some further notes. I am keeping it here rather than on Moodle so that I can keep it open (see [Open Teaching Materials](#open-materials)). **It is a living document and will grow over time - [feel free to raise any issues and suggestions here](https://github.com/LukasWallrich/StMarysSocPsy/issues) and bring questions to the live sessions.**
+
+## Collaborative group summary
+
+I highly encourage you to contribute to a collaborative group summary of the module. This will give you a good resource for revision, make note taking more effective and allow you to easily ask questions to me and to your peers. [Click here](https://docs.google.com/document/d/1H19traHUwsqs914vgLHV_nkzBWHEIjAKgB8oR6IYmo0/edit?usp=sharing) to see the document and to contribute. 
 
 ## Further sources
 
-This guide does not aim to be comprehensive, but just to provide sufficient orientation. There are many fantastic free online resources that go further.
+This guide does not aim to be comprehensive, but just to provide sufficient orientation. To succeed, you will need to use a range of other resources as well.
 
 ### MyModules (Moodle)
 
