@@ -20,11 +20,9 @@ jobs:
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown", "webex", "dplyr", "ggplot2"))'
       - name: Build book
         run: Rscript -e 'bookdown::render_book("index.Rmd")'
-      - uses: actions/upload-artifact@v1
-        with:
-          name: _book
-          path: _book/
-      
+      - name: Copy attachments
+        run: Rscript -e 'file.copy("files", "_book", recursive=TRUE)'
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.5.9
         with:
