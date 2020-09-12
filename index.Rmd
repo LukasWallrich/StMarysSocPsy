@@ -61,4 +61,4 @@ When it comes to the assignment, you will have to show that you read independent
 
 ## A note on open teaching materials {#open-materials}
 
-Why keep materials here rather than on Moodle? Basically, because I like transparency and dislike any kinds of paywalls in science. Open Access to journal articles without having to pay for an expensive subscription has been one of the key demands on the Open Science movement, and we are slowly getting there. Open access to teaching materials is a next step, and this is one of my small contributions to that movement.
+Why keep materials here rather than on Moodle? Basically, because I like transparency and dislike any kinds of paywalls in science. Open Access to journal articles without having to pay for an expensive subscription has been one of the key demands of the Open Science movement, and we are slowly getting there. Open access to teaching materials is a next step, and this is one of my small contributions to that movement.
