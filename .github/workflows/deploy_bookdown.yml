@@ -6,29 +6,25 @@ on:
 name: renderbook
 
 jobs:
-  bookdown:
-    name: Render-Book
-    runs-on: macOS-latest
+  build-and-deploy:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: r-lib/actions/setup-r@v1
-      - uses: r-lib/actions/setup-pandoc@v1
-      - name: Install rmarkdown
+    - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
+        with:
+          persist-credentials: false
+          - uses: actions/checkout@v1
+
+    - name: BUILD
+        uses: r-lib/actions/setup-r@v1
+        uses: r-lib/actions/setup-pandoc@v1
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown", "webex", "dplyr", "ggplot2"))'
-      - name: Render Book
         run: Rscript -e 'bookdown::render_book("index.Rmd")'
-      - uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v1
         with:
           name: _book
           path: _book/
-  
-# Need to first create an empty gh-pages branch
-# see https://pkgdown.r-lib.org/reference/deploy_site_github.html
-# and also add secrets for a GH_PAT and EMAIL to the repository
-# gh-action from Cecilapp/GitHub-Pages-deploy
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
+      
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@3.5.9
       with:
