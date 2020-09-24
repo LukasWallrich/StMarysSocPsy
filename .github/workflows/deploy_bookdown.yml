@@ -17,7 +17,7 @@ jobs:
       - uses: r-lib/actions/setup-r@v1
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install rmarkdown
-        run: Rscript -e 'install.packages(c("rmarkdown","bookdown", "webex", "dplyr", "ggplot2"))'
+        run: Rscript -e 'options(repos = list(CRAN="http://cran.rstudio.com/")); install.packages(c("rmarkdown","bookdown", "webex", "dplyr", "ggplot2"))'
       - name: Build book
         run: Rscript -e 'bookdown::render_book("index.Rmd")'
       - name: Rename appendices
