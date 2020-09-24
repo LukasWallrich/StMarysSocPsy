@@ -20,6 +20,8 @@ jobs:
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown", "webex", "dplyr", "ggplot2"))'
       - name: Build book
         run: Rscript -e 'bookdown::render_book("index.Rmd")'
+      - name: Rename appendices
+        run: Rscript -e 'source("./R/number_appendices.R")'
       - name: Copy attachments
         run: Rscript -e 'file.copy("files", "_book", recursive=TRUE)'
 

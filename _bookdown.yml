@@ -6,7 +6,8 @@ delete_merged_file: true
 clean: []
 language:
   ui:
-    chapter_name: "Topic "
+    chapter_name: "Lecture "
+    appendix_name: !expr function(i) paste('Seminar', which(LETTERS == i))
   label:
     fig: 'Figure '
     tab: 'Table '
