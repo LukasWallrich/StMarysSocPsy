@@ -1,7 +1,7 @@
 # psyTeachR styles and functions
 # do not edit!!!!!
 
-library(dplyr)
+#library(dplyr)
 library(ggplot2)
 library(webex)
 
