@@ -12,9 +12,6 @@ favicon: "favicon.ico"
 ---
 
 
-
-
-
 ```{r cite-packages, include = FALSE}
 # automatically create a bib database for R packages
 # add any packages you want to cite here
@@ -29,6 +26,10 @@ knitr::write_bib(c(
 # Overview {-}
 
 This page shares the materials for  the Social Psychology part of the PSY4003 module and contains some further notes. I am keeping it here rather than on Moodle so that I can keep it open (see [Open Teaching Materials](#open-materials)). **It is a living document and will grow over time - [feel free to raise any issues and suggestions here](https://github.com/LukasWallrich/StMarysSocPsy/issues){target="_blank"} and bring questions to the live sessions.**
+
+## Live sessions
+
+We will meet on Zoom every Thursday morning from October 1 to December 10, with the exception of November 5. Check [**MyModules here**](https://mymodules.stmarys.ac.uk/course/view.php?id=28580#section-6){target="_blank"} for the exact times and Zoom links.
 
 ## Collaborative group summary
 
