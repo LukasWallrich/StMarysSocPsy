@@ -1,7 +1,7 @@
 --- 
 title: "PSY4013 - Intro to Social Psychology"
 author: "Lukas Wallrich"
-date: "Last updated: 2020-09-24"
+date: "Last updated: 2020-09-27"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -16,12 +16,13 @@ favicon: "favicon.ico"
 
 
 
-
-
-
 # Overview {-}
 
 This page shares the materials for  the Social Psychology part of the PSY4003 module and contains some further notes. I am keeping it here rather than on Moodle so that I can keep it open (see [Open Teaching Materials](#open-materials)). **It is a living document and will grow over time - [feel free to raise any issues and suggestions here](https://github.com/LukasWallrich/StMarysSocPsy/issues){target="_blank"} and bring questions to the live sessions.**
+
+## Live sessions
+
+We will meet on Zoom every Thursday morning from October 1 to December 10, with the exception of November 5. Check [**MyModules here**](https://mymodules.stmarys.ac.uk/course/view.php?id=28580#section-6){target="_blank"} for the exact times and Zoom links.
 
 ## Collaborative group summary
 
@@ -44,7 +45,7 @@ Some copyrighted materials are only available on [MyModules](https://mymodules.s
 
 Each weekly section in this guide will start with a set of recommended readings. You do not need to read every word of them, but make sure to read the key parts (e.g., abstracts, summaries, discussion sections), so that you can choose where to go further and remember where to find information when it comes to the assignments.
 
-### Independent reading
+### Independent reading {#read}
 
 When it comes to the assignment, you will have to show that you read independently - however, even earlier, it can be fun to explore interesting things further. To find readings, you can use
 
