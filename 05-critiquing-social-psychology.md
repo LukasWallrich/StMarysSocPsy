@@ -21,13 +21,15 @@ Once the video lecture is available, it will show here
 
 ## Recommended readings
 
-* The seminal 2015 article by the Open Science Collaboration. It can be freely downloaded [here](http://cbcd.bbk.ac.uk/sites/default/files/cbcd/files/interlearn/Open%20Science%2015%20replicability%20science%20paper.pdf){target = "_blank"} and has a *1-page summary* that you should read at the very least.
+* The seminal 2015 article by the Open Science Collaboration. It can be freely downloaded [here](http://cbcd.bbk.ac.uk/sites/default/files/cbcd/files/interlearn/Open%20Science%2015%20replicability%20science%20paper.pdf){target="_blank"} and has a *1-page summary* that you should read at the very least.
 
 * The article in the BPS Research Digest on [10 famous psychology findings that its been difficult to replicate ](https://digest.bps.org.uk/2016/09/16/ten-famous-psychology-findings-that-its-been-difficult-to-replicate/){target="_blank"}
   
 
 * [Wikipedia entry](https://en.wikipedia.org/wiki/Replication_crisislocation){target="_blank"} on the replication crisis. It gives a good overview over the issue in various disciplines and the various responses that have been proposed. 
 
-* If you are curious about the start of the replication debate, you might want to read the article that kicked it all off: "Feeling the future" [bem2011feeling] that provided experimental evidence for our ability to, well, feel the future before it happened. It's not essential reading; if you read it, think about what had to go wrong for this to get published in an influential journal.
+* A very new (short) article on "What is replication?" [@nosek2020replication] - it shows quite nicely how replications can be not just a clean-up exercise but an important contribution to scientific progress.
+
+* If you are curious about the start of the replication debate, you might want to read the article that kicked it all off: "Feeling the future" [@bem2011feeling] that provided experimental evidence for our ability to, well, feel the future before it happened. It's not essential reading; if you read it, think about what had to go wrong for this to get published in an influential journal.
 
 

@@ -20,7 +20,8 @@ download the slides here</a>
 
 ## Recommended readings
 
-* Textbook: [Chapter 1](https://open.lib.umn.edu/socialpsychology/part/chapter-1-introducing-social-psychology/){target="_blank"} and Chapter 4](https://open.lib.umn.edu/socialpsychology/part/chapter-4-the-self/){target="_blank"} in *Principles of Social Psychology*
+* Textbook: [Chapter 1](https://open.lib.umn.edu/socialpsychology/part/chapter-1-introducing-social-psychology/){target="_blank"} and [Chapter 4](https://open.lib.umn.edu/socialpsychology/part/chapter-4-the-self/){target="_blank"} in *Principles of Social Psychology*
 
-* Further (non-academic) reading: *Humankind* by Rutger Bregman is a beautiful book that draws on social psychology and related disciplines to argue that humans are fundamentally good. It provides a novel perspective on many 'landmark' research findings and offers hope in these troubled times.
+* Further (non-academic) reading: *Humankind* [@bregman2020humankind] is a beautiful book that draws on social psychology and related disciplines to argue that humans are fundamentally good. It provides a novel perspective on many 'landmark' research findings and offers hope in these troubled times. At the moment, you can find an online copy [here](http://dln.jaipuria.ac.in:8080/jspui/bitstream/123456789/7675/1/Humankind%20A%20Hopeful%20History%20by%20Rutger%20Bregman.pdf){target="_blank"}; chapters 1 and 2 give a good overview of the book and intro to some ideas in this course.
+  
 
