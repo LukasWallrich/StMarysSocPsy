@@ -52,7 +52,7 @@ Some copyrighted materials are only available on [MyModules](https://mymodules.s
 
 Each weekly section in this guide will start with a set of recommended readings. You do not need to read every word of them, but make sure to read the key parts (e.g., abstracts, summaries, discussion sections), so that you can choose where to go further and remember where to find information when it comes to the assignments.
 
-### Independent reading
+### Independent reading {#read}
 
 When it comes to the assignment, you will have to show that you read independently - however, even earlier, it can be fun to explore interesting things further. To find readings, you can use
 

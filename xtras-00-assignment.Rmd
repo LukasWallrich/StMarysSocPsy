@@ -1,6 +1,6 @@
 # (PART\*) Additional information {-}
 
-# Assignment
+# Assessments
 
 This module will be assessed with a workbook (40%) and a portfolio (60%) assessment. The workbook consists of two multiple choice tests, while the portfolio consists of a 1,500 word essay, which we will develop step-by-step.
 
