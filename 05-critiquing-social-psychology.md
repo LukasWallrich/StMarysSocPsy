@@ -1,13 +1,18 @@
 # Critiquing social psychology and understanding the replication crisis
 
-Fueled by concerns about the reliability of psychological research, a large scale project in 2015 [@open2015psychology]
+Fueled by concerns about the reliability of psychological research, a large scale project in 2015 [@open2015psychology] 
+attempted to replicate some major findings in the field. The results were a shock for many people - especially in social
+psychology, only a minority of findings were confirmed in replication studies. Since then, there has been a debate about
+why so many findings are not replicated, and what can be done about that. We will be discussing how social psychology 
+research can be made more robust. In addition, we will consider more fundamental critiques of the way most research
+in social psychology is done and consider the case for using qualitative research methods.
 
 
 ## Video lecture for this week
 
 Once the video lecture is available, it will show here
 
-<iframe src=" https://www.youtube.com/embed/NOTFOUND?rel=0 " allowfullscreen width=80% height=350></iframe>
+<iframe src=" https://www.youtube.com/embed/NOTFOUND?rel=0&modestbranding=1&loop=1&playlist=NOTFOUND " allowfullscreen width=80% height=350></iframe>
 
 
 ## Preparation before class
@@ -16,7 +21,13 @@ Once the video lecture is available, it will show here
 
 ## Recommended readings
 
-* Textbook: Chapters 
+* The seminal 2015 article by the Open Science Collaboration. It can be freely downloaded [here](http://cbcd.bbk.ac.uk/sites/default/files/cbcd/files/interlearn/Open%20Science%2015%20replicability%20science%20paper.pdf){target = "_blank"} and has a *1-page summary* that you should read at the very least.
 
-* Further (non-academic) reading: *Humankind* by Rutger Bregman is a beautiful book that draws on social psychology and related disciplines to argue that humans are fundamentally good. It provides a novel perspective on many 'landmark' research findings and offers hope in these troubled times.
+* The article in the BPS Research Digest on [10 famous psychology findings that its been difficult to replicate ](https://digest.bps.org.uk/2016/09/16/ten-famous-psychology-findings-that-its-been-difficult-to-replicate/){target="_blank"}
+  
+
+* [Wikipedia entry](https://en.wikipedia.org/wiki/Replication_crisislocation){target="_blank"} on the replication crisis. It gives a good overview over the issue in various disciplines and the various responses that have been proposed. 
+
+* If you are curious about the start of the replication debate, you might want to read the article that kicked it all off: "Feeling the future" [bem2011feeling] that provided experimental evidence for our ability to, well, feel the future before it happened. It's not essential reading; if you read it, think about what had to go wrong for this to get published in an influential journal.
+
 

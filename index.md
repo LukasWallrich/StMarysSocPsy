@@ -36,10 +36,12 @@ This guide does not aim to be comprehensive, but just to provide sufficient orie
 
 Some copyrighted materials are only available on [MyModules](https://mymodules.stmarys.ac.uk/){target="_blank"}. You can also find all **submissions links** for the assignments there.
 
-### Textbooks
+### Textbooks {#textbooks}
 
 * Given the current situation, I will mostly refer to a good recent textbook that is freely available online: [*Principles of Social Psychology*](https://open.lib.umn.edu/socialpsychology/){target="_blank"}. You can also download it as a [PDF file](https://open.lib.umn.edu/socialpsychology/open/download?type=pdf) if you prefer that. There will be one or two chapters that are required reading for each week. 
 * Other textbooks for Social Psychology will cover most of the content as well, so you are welcome to use those for *additional* reading. *An Introduction to Social Psychology*, edited by Wolfgang Stroebe and Miles Hewstone, is good, and used copies of earlier editions can be found quite cheaply on [Amazon](https://smile.amazon.co.uk/Introduction-Social-Psychology-BPS-Textbooks-ebook/dp/B00DWG5UDG/ref=sr_1_3?dchild=1&keywords=An+Introduction+to+Social+Psychology&qid=1599817715&sr=8-3){target="_blank"} at the moment
+* The book "Social Psychology: Revisiting the classic studies" offers a very helpful look at the most famous and influential studies that you might have encountered already. There are two copies in the [library](http://stmarys.summon.serialssolutions.com/#!/search?bookMark=eNrjYmDJy89LZWbgMrAwNTcwMjc1M2Vl4DIyMDSyNDY1MDLkYOAtLs4yMDAwNDY2N7Iw5mQQDM5PzkzMUSgorkzOyM_JT6_kYWBNS8wpTuWF0twMMm6uIc4eusW5pcnxyYkliUBV8YbxhiYmBhYmRgSkARbUJmw){target="_blank"}. At the moment, you can also find an online copy  [here](https://eclass.uowm.gr/modules/document/file.php/NURED262/Smith%20%26%20Haslam%20Social%20Psychology_%20Revisiting%20the%20Classical%20Studies%20%282012%29%20book.pdf#page=173){target="_blank"}
+   
 
 ### Reading list
 

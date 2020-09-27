@@ -1,12 +1,15 @@
 # Social influence: behaviour in groups
 
-Humans have been described as 'social animals' - it can plausibly be argued that our ability to cooperate in social groups is what sets us apart from our otherwise close animal relatives. This can obviously result in prosperity and beautiful cultural creations, but also in mass violence and destruction. Social psychology attempts to understand how individuals behave in groups, and thus what the conditions are for positive and negative outcomes to arise.
+We spend much of our lives in groups - be they groups of friends hanging out, teams trying to 
+achieve a common purpose or protestors working to bring about change. Often, our individual
+behaviour is powerfully shaped by the presence of others. This week, we will explore when 
+that happens, and how groups can enhance rather than impede both performance and moral behaviour.
 
 ## Video lecture for this week
 
 Once the video lecture is available, it will show here
 
-<iframe src=" https://www.youtube.com/embed/NOTFOUND?rel=0 " allowfullscreen width=80% height=350></iframe>
+<iframe src=" https://www.youtube.com/embed/NOTFOUND?rel=0&modestbranding=1&loop=1&playlist=NOTFOUND " allowfullscreen width=80% height=350></iframe>
 
 ## Preparation before class
 
@@ -15,5 +18,10 @@ Once the video lecture is available, it will show here
 ## Recommended readings
 
 * Textbook: [Chapter 7](https://open.lib.umn.edu/socialpsychology/part/chapter-7-influencing-and-conforming/) and [Chapter 11](https://open.lib.umn.edu/socialpsychology/part/chapter-11-working-groups-performance-and-decision-making/) in *Principles of Social Psychology*
+
+* Chapter 7 in Social Psychology: Revisiting the classic studies (and chapter 5 and 6, if you have time)
+
+* Review article on how to create social norms that promote pro-environmental behaviour [cialdini2003crafting]. Beyond that particular issue, 
+this shows how social influence can be used for good.
 
 
