@@ -19,9 +19,9 @@ Once the video lecture is available, it will show here
 
 * Textbook: [Chapter 7](https://open.lib.umn.edu/socialpsychology/part/chapter-7-influencing-and-conforming/) and [Chapter 11](https://open.lib.umn.edu/socialpsychology/part/chapter-11-working-groups-performance-and-decision-making/) in *Principles of Social Psychology*
 
-* Chapter 7 in Social Psychology: Revisiting the classic studies (and chapter 5 and 6, if you have time)
+* Chapter 7 in **Social Psychology: Revisiting the classic studies** (and chapter 5 and 6, if you have time). Additionally, you can read Chapter 8 in **Humankind**, especially if you are considering writing the essay on Milgram.
 
-* Review article on how to create social norms that promote pro-environmental behaviour [cialdini2003crafting]. Beyond that particular issue, 
+* Review article on how to create social norms that promote pro-environmental behaviour [@cialdini2003crafting]. Beyond that particular issue, 
 this shows how social influence can be used for good.
 
 
