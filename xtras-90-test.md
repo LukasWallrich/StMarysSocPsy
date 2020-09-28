@@ -2,27 +2,28 @@
 
 
 ```r
-library(dplyr)
+library(tidyverse)
 ```
 
 ```
-## 
-## Attaching package: 'dplyr'
+## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.0 ──
 ```
 
 ```
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
+## ✔ tibble  3.0.3     ✔ dplyr   1.0.2
+## ✔ tidyr   1.1.2     ✔ stringr 1.4.0
+## ✔ readr   1.3.1     ✔ forcats 0.5.0
+## ✔ purrr   0.3.4
 ```
 
 ```
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
+## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## ✖ dplyr::filter() masks stats::filter()
+## ✖ dplyr::lag()    masks stats::lag()
 ```
 
 ```r
+library(webex)
 mtcars %>% group_by(cyl) %>% summarise(mean(mpg))
 ```
 
@@ -59,17 +60,23 @@ sessionInfo()
 ## [1] stats     graphics  grDevices utils     datasets  methods   base     
 ## 
 ## other attached packages:
-## [1] dplyr_1.0.2   webex_0.9.1   ggplot2_3.3.2
+##  [1] forcats_0.5.0   stringr_1.4.0   dplyr_1.0.2     purrr_0.3.4    
+##  [5] readr_1.3.1     tidyr_1.1.2     tibble_3.0.3    tidyverse_1.3.0
+##  [9] webex_0.9.1     ggplot2_3.3.2  
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] knitr_1.30       magrittr_1.5     tidyselect_1.1.0 munsell_0.5.0   
-##  [5] colorspace_1.4-1 R6_2.4.1         rlang_0.4.7      fansi_0.4.1     
-##  [9] stringr_1.4.0    tools_4.0.2      grid_4.0.2       gtable_0.3.0    
-## [13] xfun_0.17        utf8_1.1.4       cli_2.0.2        withr_2.3.0     
-## [17] htmltools_0.5.0  ellipsis_0.3.1   assertthat_0.2.1 yaml_2.2.1      
-## [21] digest_0.6.25    tibble_3.0.3     lifecycle_0.2.0  crayon_1.3.4    
-## [25] bookdown_0.20    purrr_0.3.4      vctrs_0.3.4      glue_1.4.2      
-## [29] evaluate_0.14    rmarkdown_2.3    stringi_1.5.3    compiler_4.0.2  
-## [33] pillar_1.4.6     generics_0.0.2   scales_1.1.1     pkgconfig_2.0.3
+##  [1] tidyselect_1.1.0 xfun_0.17        haven_2.3.1      colorspace_1.4-1
+##  [5] vctrs_0.3.4      generics_0.0.2   htmltools_0.5.0  yaml_2.2.1      
+##  [9] utf8_1.1.4       blob_1.2.1       rlang_0.4.7      pillar_1.4.6    
+## [13] glue_1.4.2       withr_2.3.0      DBI_1.1.0        dbplyr_1.4.4    
+## [17] modelr_0.1.8     readxl_1.3.1     lifecycle_0.2.0  munsell_0.5.0   
+## [21] gtable_0.3.0     cellranger_1.1.0 rvest_0.3.6      evaluate_0.14   
+## [25] knitr_1.30       fansi_0.4.1      broom_0.7.0      Rcpp_1.0.5      
+## [29] backports_1.1.10 scales_1.1.1     jsonlite_1.7.1   fs_1.5.0        
+## [33] hms_0.5.3        digest_0.6.25    stringi_1.5.3    bookdown_0.20   
+## [37] grid_4.0.2       cli_2.0.2        tools_4.0.2      magrittr_1.5    
+## [41] crayon_1.3.4     pkgconfig_2.0.3  ellipsis_0.3.1   xml2_1.3.2      
+## [45] reprex_0.3.0     lubridate_1.7.9  assertthat_0.2.1 rmarkdown_2.3   
+## [49] httr_1.4.2       rstudioapi_0.11  R6_2.4.1         compiler_4.0.2
 ```
 
