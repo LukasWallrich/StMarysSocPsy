@@ -1,7 +1,8 @@
 # Test (pls ignore)
 
 ```{r}
-library(dplyr)
+library(tidyverse)
+library(webex)
 mtcars %>% group_by(cyl) %>% summarise(mean(mpg))
 
 sessionInfo()
