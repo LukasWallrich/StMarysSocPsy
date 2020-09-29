@@ -1,9 +1,0 @@
-# References
-
-This guide is created in R, an Open Source statistical programming environment, which I am using because it also makes it very easy to create nice HTML documents. The necessary packages for that are included into these references, but you certainly do not need to understand that technical stuff in order to do well in this module and your degree (though you might find it fun to learn and helpful for your CV).
-
----
-nocite: '@*'
----
-
-<div id="refs"></div>
