@@ -1,0 +1,27 @@
+# Self, social identity and intergroup conflict
+
+Understanding intergroup conflict has been a priority from the start of social psychology in the aftermath
+of World War II. This week, we are exploring how prejudice emerges and how it shapes relationships between
+groups on many levels.
+
+## Video lecture for this week
+
+Once the video lecture is available, it will show here
+
+<iframe src=" https://www.youtube.com/embed/NOTFOUND?rel=0&modestbranding=1&loop=1&playlist=NOTFOUND " allowfullscreen width=80% height=350></iframe>
+
+## Preparation before class
+
+
+
+## Recommended readings
+
+* Textbook: [Chapter 12](https://open.lib.umn.edu/socialpsychology/part/chapter-12-stereotypes-prejudice-and-discrimination/) in *Principles of Social Psychology*
+
+* Chapters 9 and 10 in **Social Psychology: Revisiting the classic studies**. 
+
+* After you have read about Tajfel's minimal group experiments (e.g., Chapter 10 above), have a look at this recent paper that makes some important points regarding the limits and the interpretation of these findings: [@sand2020gentle]
+
+
+
+
