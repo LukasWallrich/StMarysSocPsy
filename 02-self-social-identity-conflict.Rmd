@@ -46,7 +46,7 @@ The tendency to use availability - the ease with which one can bring to mind exe
 `r video_code("-njSO-fsszc")
 `
 * Can you think of any personal examples where some kind of intergroup contact changed your attitudes? If so, how did that change come about?
-* True or false: telling people to ignore group memberships in evaluating individuals (i.e. to be 'colour-blind') leads to better intergroup outcomes than promoting multiculturalism. `r mcq(FALSE)` 
+* True or false: telling people to ignore group memberships in evaluating individuals (i.e. to be 'colour-blind') leads to better intergroup outcomes than promoting multiculturalism. `r torf(FALSE)` 
 * What is a meta-analysis? Think about the answer before viewing it.
 `r hide("View answer")`
 A study that collects all research (ideally published and unpublished) on a given topic and then statistically combines their results. This gives us the best evidence whether there really is an effect and how strong the effect is likely to be, because random error and variation across studies should cancel out. 
