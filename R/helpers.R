@@ -1,4 +1,4 @@
-get_link <- function(pattern, name = "click here", rename = TRUE) {
+get_link <- function(pattern, name = "here", rename = TRUE) {
   file <- list.files("./files/", pattern = pattern)
   if(length(file) == 0) stop("No matching file found in ./files/")
   if(length(file) > 1) {
