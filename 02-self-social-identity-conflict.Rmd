@@ -59,6 +59,10 @@ A study that collects all research (ideally published and unpublished) on a give
 * Chapter 10 in **Social Psychology: Revisiting the classic studies** (about Tajfel's minimal group studies - best read *after* class) 
     + After you have read about Tajfel's minimal group experiments (e.g., this Chapter 10), have a look at a recent paper that makes some important points regarding the limits and the interpretation of these findings: [@sand2020gentle]
 
+## Additions after the live session
 
+* To think about how to deal with our own subtle prejudices and tendencies to discriminate, June Sarpong's thoughts on [six degrees of integration](http://www.diversify.org/our-isms.html){target="_blank"} are interesting
+* The availability heuristic is described well in Daniel Kahneman's book *Thinking fast and slow.* We will be revisiting the main ideas from that in 
+  
 
 
