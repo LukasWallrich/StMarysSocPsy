@@ -112,7 +112,9 @@ div.color-theme-2 .book-body .page-wrapper .page-inner section.normal strong cod
 
 /* styles for solveme */
 .solveme { border: 2px dotted var(--pink); }
-.solveme.correct { border: 2px solid var(--green); }
+.solveme.correct { border: 2px solid var(--green); background: #cef7ce;}
+.solveme.incorrect { border: 2px solid blue; background: pink;}
+
 /* styles for hidden solutions */
 .solution {
     height: 2.2em;
