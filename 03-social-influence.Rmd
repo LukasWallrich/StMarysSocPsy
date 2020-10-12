@@ -28,7 +28,7 @@ Before you move on, take a moment to reflect on the content of the video and ans
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
 * Can you explain the social identity account of deindividuation? Can you think of a personal example where deindividuation led to you behaving in a way that was strongly in line with group norms?
-* In Diener's (1976) trick or treat experiment, the experimenters manipulated whether or not participants were anonymous. They just observed whether participants arrived alone or in groups. Which of their two main conclusions is based on better evidence, based on that design? `r mcq(c(correct = "Anonymity increases transgressions",  "Being in a group increases transgression", "No difference"))` (If you are not confident in your answer, please make sure to bring this up in class.)
+* In Diener's (1976) trick or treat experiment, the experimenters manipulated whether or not participants were anonymous. They just observed whether participants arrived alone or in groups. Which of their two main conclusions is based on better evidence, based on that design? `r mcq(c(answer = "Anonymity increases transgressions",  "Being in a group increases transgression", "No difference"))` (If you are not confident in your answer, please make sure to bring this up in class.)
 
 ### Group behaviours
 
@@ -36,7 +36,7 @@ Before you move on, take a moment to reflect on the content of the video and ans
 
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
-* What effect are online 'echo chambers' most closely related to? `r mcq(c("Group convergence",  correct = "Group polarisation", "Groupthink"))`
+* What effect are online 'echo chambers' most closely related to? `r mcq(c("Group convergence",  answer = "Group polarisation", "Groupthink"))`
 * Can you think of any situations - in your personal life or in history - when groupthink led to a wrong decision being taken? If you were involved in that decision making process (again), what steps would you take to prevent groupthink?
 * A controversial application of the ideas of group convergence and group polarisation comes from the "costly signaling" explanation for religious beliefs and behaviours. If you are curious about that, have a look at the section on [Wikipedia](https://en.wikipedia.org/wiki/Signalling_theory#Religion_as_a_costly_signal){target="_blank"}. Then consider whether you find the idea convincing (based on that very limited knowledge about the research evidence) and how it relates to the concepts we have discussed so far. 
 
