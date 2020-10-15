@@ -20,8 +20,8 @@ Once the video lecture is available, it will show here
 
 ## Recommended readings
 
-* Textbook: [Chapter 9 on altruism](https://open.lib.umn.edu/socialpsychology/part/chapter-9-helping-and-altruism/){target = "_blank"} and [Chapter 8 on liking and loving](https://open.lib.umn.edu/socialpsychology/part/chapter-8-liking-and-loving/){target = "_blank"} in *Principles of Social Psychology*. 
-You can also have a look at [Chapter 13](https://open.lib.umn.edu/socialpsychology/part/chapter-13-competition-and-cooperation-in-our-social-worlds/){target = "_blank"} that discusses how people balance self-interest and concern for others.
+* Textbook: [Chapter 9 on altruism](https://open.lib.umn.edu/socialpsychology/part/chapter-9-helping-and-altruism/){target="_blank"} and [Chapter 8 on liking and loving](https://open.lib.umn.edu/socialpsychology/part/chapter-8-liking-and-loving/){target="_blank"} in *Principles of Social Psychology*. 
+You can also have a look at [Chapter 13](https://open.lib.umn.edu/socialpsychology/part/chapter-13-competition-and-cooperation-in-our-social-worlds/){target="_blank"} that discusses how people balance self-interest and concern for others.
 * Chapter 12 in **Social Psychology: Revisiting the classic studies** and/or Chapter 9 in **Humankind**
 * Review article on the costs and benefits of selfishness and 'otherishness' [@crocker2017social] that explores a wide range of factors that help explain when people behave selfishly or otherwise, and what the consequences of those behaviours are.
 * Journal article: especially if you are considering writing your essay on attachment, have a look at Girme's recent article on modeling non-linear relationships in this area [@girme2020step]. It is a bit complicated to read, but highlights a very common issue in psychological research (an excessive focus on linear relationships) and presents some novel findings. 
