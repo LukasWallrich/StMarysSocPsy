@@ -10,12 +10,50 @@ health and well-being, we will consider how they emerge. As part of that, we wil
 
 ## Video lecture for this week
 
-Once the video lecture is available, it will show here
+This week's lecture is split into four parts, that you should watch in order. In between, there are a couple of questions and tasks that will allow you to reflect on the content and explore the topic further. Make sure to answer the content questions before you move on - when you do the extension activites is obviously up to you.
 
-<iframe src=" https://www.youtube.com/embed/NOTFOUND?rel=0&modestbranding=1&loop=1&playlist=NOTFOUND " allowfullscreen width=80% height=350></iframe>
+You can download the lecture slides <a href="./files/Lecture_4_-_altruism_and_attraction.pptx">here</a>
 
-## Preparation before class
+### Self-interest and altruism
 
+<iframe src=" https://www.youtube.com/embed/j9Ayjgz3UtA?rel=0&modestbranding=1&loop=1&playlist=j9Ayjgz3UtA " allowfullscreen width=80% height=350></iframe>
+
+Before you move on, take a moment to reflect on the content of the video and answer the following questions:
+
+- How would you use evolutionary, social exchange and empathy-based explanations of prosocial behaviour to explain in-group bias, i.e. the fact that people provide more help to members of their own social groups?
+- What is known as the bystander effect? <select class='solveme' data-answer='["Often, individuals help less when there are many other potential helpers around"]'> <option></option> <option>Often, individuals help less when there are many other potential helpers around</option> <option>Bystanders intervened in 90% of observed public conflicts</option> <option>Competing priorities - such as being in a hurry - reduce the likelihood of helping</option></select> (Note that all statements are true.)
+
+I would also encourage you to experiment with the impact of prosocial thoughts and behaviours on your own well-being. Usually, I would focus on getting you to perform random acts of kindness, but in Covid-times, loving-kindness meditation is an alternative that is contact-free. Have a look at the following and decide when you want to give either a go:
+
+- A list of ideas for [random acts of kindness](https://www.randomactsofkindness.org/the-kindness-blog/2943-50-kindness-ideas-for-random-acts-of-kindness-day){target="_blank"} (not limited to the Random Acts of Kindness day, but not all are Covid-secure)
+- A [guided loving-kindness mediation](https://youtu.be/sz7cpV7ERsM){target="_blank"}. It might sound esoteric, but give it a go (or search Google Scholar to find the evidence behind it)
+
+### Predictors of liking and attraction
+
+<iframe src=" https://www.youtube.com/embed/3JGV4u9kHcg?rel=0&modestbranding=1&loop=1&playlist=3JGV4u9kHcg " allowfullscreen width=80% height=350></iframe>
+
+Before you move on, take a moment to reflect on the content of the video and answer the following questions:
+
+- What is homophily? <select class='solveme' data-answer='["The tendency to prefer friends and potential partners who are similar to oneself"]'> <option></option> <option>A preference for same-sex partners</option> <option>The tendency to marry in-group members</option> <option>The tendency to prefer friends and potential partners who are similar to oneself</option></select>
+- Which of the following might explain why we like music better when we have heard it before? <select class='solveme' data-answer='["Mere exposure"]'> <option></option> <option>Reciprocity</option> <option>Mere exposure</option> <option>Personal preferences</option></select>
+
+### Beauty - Myths & Debates
+
+<iframe src=" https://www.youtube.com/embed/MnHqJquC_3w?rel=0&modestbranding=1&loop=1&playlist=MnHqJquC_3w " allowfullscreen width=80% height=350></iframe>
+
+Before you move on, take a moment to reflect on the content of the video and answer the following questions:
+
+- Think about the possible explanations for why we care about beauty: evolutionary processes, meaningful signals about personality, cues of conformity. Which do you think most explains *your* preferences? Which is most relevant across society?
+- Have a look at Dove's #MyBeautyMySay ad on [Youtube](https://youtu.be/_XOa7zVqxA4){target="_blank"}. How does that relate to what I said about beauty? Why would a brand advertise like that? What is your personal reaction to the ad?  
+
+### Maintaining close relationships 
+
+<iframe src=" https://www.youtube.com/embed/Bhiv1MtV4uE?rel=0&modestbranding=1&loop=1&playlist=Bhiv1MtV4uE " allowfullscreen width=80% height=350></iframe>
+
+Before you move on, take a moment to reflect on the content of the video and answer the following questions:
+
+- How would you explain the findings that social connections - and especially stable romantic relationships - are associated with sharply reduced mortality? If you want to find out more about that, you can have a look at [this article](https://www.nhs.uk/news/mental-health/loneliness-increases-risk-of-premature-death/){target="_blank"} on the brilliant *Behind the headlines* site created by the NHS that explains the science behind headlines
+- What are the key elements of love, according to Sternberg's triangular theory? <select class='solveme' data-answer='["Intimacy, Passion, Commitment"]'> <option></option> <option>Liking, Exposure, Similarity</option> <option>Intimacy, Passion, Commitment</option> <option>Values, Trust, Empathy</option></select>
 
 
 ## Recommended readings
