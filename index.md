@@ -1,7 +1,7 @@
 --- 
 title: "PSY4013 - Intro to Social Psychology"
 author: "Lukas Wallrich"
-date: "Last updated: 2020-10-19"
+date: "Last updated: 2020-10-22"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
