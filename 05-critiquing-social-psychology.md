@@ -5,18 +5,54 @@ attempted to replicate some major findings in the field. The results were a shoc
 psychology, only a minority of findings were confirmed in replication studies. Since then, there has been a debate about
 why so many findings are not replicated, and what can be done about that. We will be discussing how social psychology 
 research can be made more robust. In addition, we will consider more fundamental critiques of the way most research
-in social psychology is done and consider the case for using qualitative research methods.
+in social psychology is done and consider the case for using qualitative research methods. Finally, we will look at the 
+attitude-behaviour links and consider how a focus on studying only attitudes might impoverish our conclusions.
 
 
 ## Video lecture for this week
 
-Once the video lecture is available, it will show here
+You can download the slides for this week's lectures <a href="./files/Lecture_5_-_critiquing_social_psychology.pptx">here</a> - maybe download them now to follow along, there is quite a bit of text on some of them.
 
-<iframe src=" https://www.youtube.com/embed/NOTFOUND?rel=0&modestbranding=1&loop=1&playlist=NOTFOUND " allowfullscreen width=80% height=350></iframe>
+### Qualitative critiques of social psychology
+
+<iframe src=" https://www.youtube.com/embed/XoIO6yXtdeY?rel=0&modestbranding=1&loop=1&playlist=XoIO6yXtdeY " allowfullscreen width=80% height=350></iframe>
+
+Before you move on, take a moment to reflect on the content of the video and answer the following questions:
+
+* Which of the following is not a critical challenge to quantitative social psychology?  <select class='solveme' data-answer='["We should follow the scientific method and use accurate measures"]'> <option></option> <option>There is no objective reality, instead we construct it collectively through language</option> <option>There is no place for a neutral observer - we are always embedded in relationships</option> <option>We should follow the scientific method and use accurate measures</option> <option>We need to check our assumption that problems are located in the individual</option></select>
+* What are WEIRD samples in psychology? When do you think we should worry about them? When do you think they are sufficient? 
+
+### Replication crisis
+
+<iframe src=" https://www.youtube.com/embed/T8IxQrFxUHY?rel=0&modestbranding=1&loop=1&playlist=T8IxQrFxUHY " allowfullscreen width=80% height=350></iframe>
+
+Before you move on, take a moment to reflect on the content of the video and answer the following questions:
+
+* The *Reproducibility Project* repeated 100 important studies that had reported significant results. Out of the social psychology studies, what share of replications yielded significant results? <select class='solveme' data-answer='["25%"]'> <option></option> <option>10%</option> <option>25%</option> <option>50%</option> <option>80%</option></select>
+* What are Type I errors? <select class='solveme' data-answer='["False positives"]'> <option></option> <option>False positives</option> <option>False negatives%</option></select> Are they always a sign of mistakes/problems with the research process? <select class='solveme' data-answer='["FALSE"]'> <option></option> <option>TRUE</option> <option>FALSE</option></select>
+
+<div class='solution'><button>Click to read more</button>
+
+Don't worry about remembering what Type I and Type II errors are (at least for this module), but make sure that you understand the difference between false positives and false negatives. Also, these errors are not always a sign of problems with the research process. Statistics is about quantifying the probability that a trend we observe in a sample tells us something real about a broader population - we then need to decide which belief to adopt, and will inevitable be wrong at times. However, having many more errors in the literature than expected is a problem, and too many failed replications are a definitive sign of that.
+
+</div>
+
+* Have a look at this [tool for p-hacking](https://projects.fivethirtyeight.com/p-hacking/){target="_blank"}. How might something similar happen in social psychology? Do you understand why this invalidates p-values? Otherwise, make sure to raise this in class. 
+
+### Attitude-behaviour links
+
+<iframe src=" https://www.youtube.com/embed/GroazLRvKlE?rel=0&modestbranding=1&loop=1&playlist=GroazLRvKlE " allowfullscreen width=80% height=350></iframe>
+
+Before you move on, take a moment to reflect on the content of the video and answer the following questions:
+
+* How would you explain the relationship between attitudes and behaviours, having watched the video? What does that mean for interpreting survey studies that measure attitudes?
+* What was the main finding in LaPiere's 1934 study about attitudes and behaviours?  <select class='solveme' data-answer='["Discriminatory attidudes were more widespread than discriminatory behaviours"]'> <option></option> <option>Discriminatory attidudes were more widespread than discriminatory behaviours</option> <option>Discriminatory behaviours were more widespread than discriminatory attitudes</option> <option>Discriminatory attitudes predicted discriminatory behaviours well</option></select> How would you explain that finding?
+* Have a look at the [Parable of Polygons](https://ncase.me/polygons/){target="_blank"}. Do you find any of it surprising? Can you think of any sphere in your personal life where a similar effect is visible?
 
 
 ## Preparation before class
 
+I'd encourage you to give the multiple choice exam - available from Tuesday on Moodle - a first go and bring your questions to class.
 
 
 ## Recommended readings
