@@ -29,7 +29,7 @@ Before you move on, take a moment to reflect on the content of the video and ans
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
 * The *Reproducibility Project* repeated 100 important studies that had reported significant results. Out of the social psychology studies, what share of replications yielded significant results? `r mcq(c("10%", answer = "25%", "50%", "80%"))`
-* What are Type I errors? `r mcq(c(answer = "False positives", "False negatives%"))` Are they always a sign of mistakes/problems with the research process? `r torf(FALSE)`
+* What are Type I errors? `r mcq(c(answer = "False positives", "False negatives"))` Are they always a sign of mistakes/problems with the research process? `r torf(FALSE)`
 `r hide("Click to read more")`
 Don't worry about remembering what Type I and Type II errors are (at least for this module), but make sure that you understand the difference between false positives and false negatives. Also, these errors are not always a sign of problems with the research process. Statistics is about quantifying the probability that a trend we observe in a sample tells us something real about a broader population - we then need to decide which belief to adopt, and will inevitable be wrong at times. However, having many more errors in the literature than expected is a problem, and too many failed replications are a definitive sign of that.
 `r unhide()`
@@ -42,7 +42,7 @@ Don't worry about remembering what Type I and Type II errors are (at least for t
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
 * How would you explain the relationship between attitudes and behaviours, having watched the video? What does that mean for interpreting survey studies that measure attitudes?
-* What was the main finding in LaPiere's 1934 study about attitudes and behaviours?  `r mcq(c(answer = "Discriminatory attidudes were more widespread than discriminatory behaviours", "Discriminatory behaviours were more widespread than discriminatory attitudes", "Discriminatory attitudes predicted discriminatory behaviours well"))` How would you explain that finding?
+* What was the main finding in LaPiere's 1934 study about attitudes and behaviours?  `r mcq(c(answer = "Discriminatory attitudes were more widespread than discriminatory behaviours", "Discriminatory behaviours were more widespread than discriminatory attitudes", "Discriminatory attitudes predicted discriminatory behaviours well"))` How would you explain that finding?
 * Have a look at the [Parable of Polygons](https://ncase.me/polygons/){target="_blank"}. Do you find any of it surprising? Can you think of any sphere in your personal life where a similar effect is visible?
 
 
