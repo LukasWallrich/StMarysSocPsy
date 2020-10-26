@@ -29,7 +29,7 @@ Before you move on, take a moment to reflect on the content of the video and ans
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
 * The *Reproducibility Project* repeated 100 important studies that had reported significant results. Out of the social psychology studies, what share of replications yielded significant results? <select class='solveme' data-answer='["25%"]'> <option></option> <option>10%</option> <option>25%</option> <option>50%</option> <option>80%</option></select>
-* What are Type I errors? <select class='solveme' data-answer='["False positives"]'> <option></option> <option>False positives</option> <option>False negatives%</option></select> Are they always a sign of mistakes/problems with the research process? <select class='solveme' data-answer='["FALSE"]'> <option></option> <option>TRUE</option> <option>FALSE</option></select>
+* What are Type I errors? <select class='solveme' data-answer='["False positives"]'> <option></option> <option>False positives</option> <option>False negatives</option></select> Are they always a sign of mistakes/problems with the research process? <select class='solveme' data-answer='["FALSE"]'> <option></option> <option>TRUE</option> <option>FALSE</option></select>
 
 <div class='solution'><button>Click to read more</button>
 
@@ -46,7 +46,7 @@ Don't worry about remembering what Type I and Type II errors are (at least for t
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
 * How would you explain the relationship between attitudes and behaviours, having watched the video? What does that mean for interpreting survey studies that measure attitudes?
-* What was the main finding in LaPiere's 1934 study about attitudes and behaviours?  <select class='solveme' data-answer='["Discriminatory attidudes were more widespread than discriminatory behaviours"]'> <option></option> <option>Discriminatory attidudes were more widespread than discriminatory behaviours</option> <option>Discriminatory behaviours were more widespread than discriminatory attitudes</option> <option>Discriminatory attitudes predicted discriminatory behaviours well</option></select> How would you explain that finding?
+* What was the main finding in LaPiere's 1934 study about attitudes and behaviours?  <select class='solveme' data-answer='["Discriminatory attitudes were more widespread than discriminatory behaviours"]'> <option></option> <option>Discriminatory attitudes were more widespread than discriminatory behaviours</option> <option>Discriminatory behaviours were more widespread than discriminatory attitudes</option> <option>Discriminatory attitudes predicted discriminatory behaviours well</option></select> How would you explain that finding?
 * Have a look at the [Parable of Polygons](https://ncase.me/polygons/){target="_blank"}. Do you find any of it surprising? Can you think of any sphere in your personal life where a similar effect is visible?
 
 
