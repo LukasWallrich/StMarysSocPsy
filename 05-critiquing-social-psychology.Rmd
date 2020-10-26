@@ -19,7 +19,7 @@ You can download the slides for this week's lectures <a href="./files/Lecture_5_
 
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
-* Which of the following is not a critical challenge to quantitative social psychology?  `r mcq(c("There is no objective reality, instead we construct it collectively through language",  "There is no place for a neutral observer - we are always embedded in relationships", answer = "We should follow the scientific method and use accurate measures"), "We need to check our assumption that problems are located in the individual")`
+* Which of the following is not a critical challenge to quantitative social psychology?  `r mcq(c("There is no objective reality, instead we construct it collectively through language",  "There is no place for a neutral observer - we are always embedded in relationships", answer = "We should follow the scientific method and use accurate measures", "We need to check our assumption that problems are located in the individual"))`
 * What are WEIRD samples in psychology? When do you think we should worry about them? When do you think they are sufficient? 
 
 ### Replication crisis
@@ -48,6 +48,7 @@ Before you move on, take a moment to reflect on the content of the video and ans
 
 ## Preparation before class
 
+I'd encourage you to give the multiple choice exam - available from Tuesday on Moodle - a first go and bring your questions to class.
 
 
 ## Recommended readings
