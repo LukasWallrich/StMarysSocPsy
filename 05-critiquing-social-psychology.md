@@ -24,7 +24,7 @@ Before you move on, take a moment to reflect on the content of the video and ans
 
 ### Replication crisis
 
-<iframe src=" https://www.youtube.com/embed/T8IxQrFxUHY?rel=0&modestbranding=1&loop=1&playlist=T8IxQrFxUHY " allowfullscreen width=80% height=350></iframe>
+**NOTE: This video needs to be rerecorded due to technical issues - it will be available from Tuesday afternoon. Apologies for any inconvenience.**
 
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
