@@ -24,7 +24,9 @@ Before you move on, take a moment to reflect on the content of the video and ans
 
 ### Replication crisis
 
-**NOTE: This video needs to be rerecorded due to technical issues - it will be available from Tuesday afternoon. Apologies for any inconvenience.**
+*NOTE: The sound quality issue with this video should now be fixed. If you tried to watch it before Tuesday afternoon, please give it another go.*
+
+<iframe src=" https://www.youtube.com/embed/mloxqkBVOLQ?rel=0&modestbranding=1&loop=1&playlist=mloxqkBVOLQ " allowfullscreen width=80% height=350></iframe>
 
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
