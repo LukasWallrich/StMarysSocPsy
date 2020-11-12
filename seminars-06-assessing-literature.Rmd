@@ -1,15 +1,14 @@
-# Assessing literature
+# Referencing and avoiding plagiarism
 
-...
+Accurate referencing is a key requirement for all academic work. Try to take the time now to learn how to do it properly - that will make your academic journey much smoother and save a ton of time over the next couple of years.
 
 ## Seminar materials
 
-
-
-## Preparation before class
-
+You can download the slides <a href="./files/Seminar_6_-_referencing.pptx">here</a>.
 
 
 ## Recommended readings and further resources
 
-
+- You can check <a href="./files/APA_referencing.pdf">this guide</a> with further instructions and examples on APA 7th referencing.
+- If you want to try out Zotero, this introductory [video](https://youtu.be/Zv-ymPeUn-M){target="_blank"} might be helpful.
+  
