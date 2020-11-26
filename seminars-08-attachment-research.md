@@ -3,13 +3,9 @@
 
 ## Seminar materials
 
-Download the seminar slides here <a href="./files/Seminar_8_-_research_critiques.pptx">here</a>
+- Download the **seminar slides** here <a href="./files/Seminar_8_-_research_critiques.pptx">here</a>
 
-
-
-## Class materials
-
-Download the discussion vignettes <a href="./files/Covid_vignettes.docx">here</a>
+- Download the **discussion vignettes** <a href="./files/Covid_vignettes.docx">here</a>
 
 
 
