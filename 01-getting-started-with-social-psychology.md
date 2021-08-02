@@ -8,7 +8,7 @@ Humans have been described as 'social animals' - it can plausibly be argued that
 
 Here the lecture for this week. I would encourage you to also have the slides open when you watch it, so that you can easily pause and reread the slides when I go too fast. Also, please **take note of all your questions,** so that we can address them in class.
 
-<iframe src=" https://www.youtube.com/embed/GRh51ZZiT0Q?rel=0&modestbranding=1&loop=1&playlist=GRh51ZZiT0Q " allowfullscreen width=80% height=350></iframe>
+<iframe src=" https://www.youtube.com/embed/GRh51ZZiT0Q?rel=0&modestbranding=1&loop=1 " allowfullscreen width=80% height=350></iframe>
 
 You can <a href="./files/Lecture_1_-_intro_to_social_psychology.pptx">
 download the slides here</a>

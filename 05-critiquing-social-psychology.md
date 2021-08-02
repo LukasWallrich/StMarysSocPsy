@@ -15,25 +15,25 @@ You can download the slides for this week's lectures <a href="./files/Lecture_5_
 
 ### Qualitative critiques of social psychology
 
-<iframe src=" https://www.youtube.com/embed/XoIO6yXtdeY?rel=0&modestbranding=1&loop=1&playlist=XoIO6yXtdeY " allowfullscreen width=80% height=350></iframe>
+<iframe src=" https://www.youtube.com/embed/XoIO6yXtdeY?rel=0&modestbranding=1&loop=1 " allowfullscreen width=80% height=350></iframe>
 
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
-* Which of the following is not a critical challenge to quantitative social psychology?  <select class='solveme' data-answer='["We should follow the scientific method and use accurate measures"]'> <option></option> <option>There is no objective reality, instead we construct it collectively through language</option> <option>There is no place for a neutral observer - we are always embedded in relationships</option> <option>We should follow the scientific method and use accurate measures</option> <option>We need to check our assumption that problems are located in the individual</option></select>
+* Which of the following is not a critical challenge to quantitative social psychology?  <select class='webex-solveme' data-answer='["We should follow the scientific method and use accurate measures"]'> <option></option> <option>There is no objective reality, instead we construct it collectively through language</option> <option>There is no place for a neutral observer - we are always embedded in relationships</option> <option>We should follow the scientific method and use accurate measures</option> <option>We need to check our assumption that problems are located in the individual</option></select>
 * What are WEIRD samples in psychology? When do you think we should worry about them? When do you think they are sufficient? 
 
 ### Replication crisis
 
 *NOTE: The sound quality issue with this video should now be fixed. If you tried to watch it before Tuesday afternoon, please give it another go.*
 
-<iframe src=" https://www.youtube.com/embed/mloxqkBVOLQ?rel=0&modestbranding=1&loop=1&playlist=mloxqkBVOLQ " allowfullscreen width=80% height=350></iframe>
+<iframe src=" https://www.youtube.com/embed/mloxqkBVOLQ?rel=0&modestbranding=1&loop=1 " allowfullscreen width=80% height=350></iframe>
 
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
-* The *Reproducibility Project* repeated 100 important studies that had reported significant results. Out of the social psychology studies, what share of replications yielded significant results? <select class='solveme' data-answer='["25%"]'> <option></option> <option>10%</option> <option>25%</option> <option>50%</option> <option>80%</option></select>
-* What are Type I errors? <select class='solveme' data-answer='["False positives"]'> <option></option> <option>False positives</option> <option>False negatives</option></select> Are they always a sign of mistakes/problems with the research process? <select class='solveme' data-answer='["FALSE"]'> <option></option> <option>TRUE</option> <option>FALSE</option></select>
+* The *Reproducibility Project* repeated 100 important studies that had reported significant results. Out of the social psychology studies, what share of replications yielded significant results? <select class='webex-solveme' data-answer='["25%"]'> <option></option> <option>10%</option> <option>25%</option> <option>50%</option> <option>80%</option></select>
+* What are Type I errors? <select class='webex-solveme' data-answer='["False positives"]'> <option></option> <option>False positives</option> <option>False negatives</option></select> Are they always a sign of mistakes/problems with the research process? <select class='webex-solveme' data-answer='["FALSE"]'> <option></option> <option>TRUE</option> <option>FALSE</option></select>
 
-<div class='solution'><button>Click to read more</button>
+<div class='webex-solution'><button>Click to read more</button>
 
 Don't worry about remembering what Type I and Type II errors are (at least for this module), but make sure that you understand the difference between false positives and false negatives. Also, these errors are not always a sign of problems with the research process. Statistics is about quantifying the probability that a trend we observe in a sample tells us something real about a broader population - we then need to decide which belief to adopt, and will inevitable be wrong at times. However, having many more errors in the literature than expected is a problem, and too many failed replications are a definitive sign of that.
 
@@ -43,12 +43,12 @@ Don't worry about remembering what Type I and Type II errors are (at least for t
 
 ### Attitude-behaviour links
 
-<iframe src=" https://www.youtube.com/embed/GroazLRvKlE?rel=0&modestbranding=1&loop=1&playlist=GroazLRvKlE " allowfullscreen width=80% height=350></iframe>
+<iframe src=" https://www.youtube.com/embed/GroazLRvKlE?rel=0&modestbranding=1&loop=1 " allowfullscreen width=80% height=350></iframe>
 
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
 * How would you explain the relationship between attitudes and behaviours, having watched the video? What does that mean for interpreting survey studies that measure attitudes?
-* What was the main finding in LaPiere's 1934 study about attitudes and behaviours?  <select class='solveme' data-answer='["Discriminatory attitudes were more widespread than discriminatory behaviours"]'> <option></option> <option>Discriminatory attitudes were more widespread than discriminatory behaviours</option> <option>Discriminatory behaviours were more widespread than discriminatory attitudes</option> <option>Discriminatory attitudes predicted discriminatory behaviours well</option></select> How would you explain that finding?
+* What was the main finding in LaPiere's 1934 study about attitudes and behaviours?  <select class='webex-solveme' data-answer='["Discriminatory attitudes were more widespread than discriminatory behaviours"]'> <option></option> <option>Discriminatory attitudes were more widespread than discriminatory behaviours</option> <option>Discriminatory behaviours were more widespread than discriminatory attitudes</option> <option>Discriminatory attitudes predicted discriminatory behaviours well</option></select> How would you explain that finding?
 * Have a look at the [Parable of Polygons](https://ncase.me/polygons/){target="_blank"}. Do you find any of it surprising? Can you think of any sphere in your personal life where a similar effect is visible?
 
 

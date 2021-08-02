@@ -16,12 +16,12 @@ You can download the lecture slides <a href="./files/Lecture_4_-_altruism_and_at
 
 ### Self-interest and altruism
 
-<iframe src=" https://www.youtube.com/embed/j9Ayjgz3UtA?rel=0&modestbranding=1&loop=1&playlist=j9Ayjgz3UtA " allowfullscreen width=80% height=350></iframe>
+<iframe src=" https://www.youtube.com/embed/j9Ayjgz3UtA?rel=0&modestbranding=1&loop=1 " allowfullscreen width=80% height=350></iframe>
 
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
 - How would you use evolutionary, social exchange and empathy-based explanations of prosocial behaviour to explain in-group bias, i.e. the fact that people provide more help to members of their own social groups?
-- What is known as the bystander effect? <select class='solveme' data-answer='["Often, individuals help less when there are many other potential helpers around"]'> <option></option> <option>Often, individuals help less when there are many other potential helpers around</option> <option>Bystanders intervened in 90% of observed public conflicts</option> <option>Competing priorities - such as being in a hurry - reduce the likelihood of helping</option></select> (Note that all statements are true.)
+- What is known as the bystander effect? <select class='webex-solveme' data-answer='["Often, individuals help less when there are many other potential helpers around"]'> <option></option> <option>Often, individuals help less when there are many other potential helpers around</option> <option>Bystanders intervened in 90% of observed public conflicts</option> <option>Competing priorities - such as being in a hurry - reduce the likelihood of helping</option></select> (Note that all statements are true.)
 
 I would also encourage you to experiment with the impact of prosocial thoughts and behaviours on your own well-being. Usually, I would focus on getting you to perform random acts of kindness, but in Covid-times, loving-kindness meditation is an alternative that is contact-free. Have a look at the following and decide when you want to give either a go:
 
@@ -30,16 +30,16 @@ I would also encourage you to experiment with the impact of prosocial thoughts a
 
 ### Predictors of liking and attraction
 
-<iframe src=" https://www.youtube.com/embed/3JGV4u9kHcg?rel=0&modestbranding=1&loop=1&playlist=3JGV4u9kHcg " allowfullscreen width=80% height=350></iframe>
+<iframe src=" https://www.youtube.com/embed/3JGV4u9kHcg?rel=0&modestbranding=1&loop=1 " allowfullscreen width=80% height=350></iframe>
 
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
-- What is homophily? <select class='solveme' data-answer='["The tendency to prefer friends and potential partners who are similar to oneself"]'> <option></option> <option>A preference for same-sex partners</option> <option>The tendency to marry in-group members</option> <option>The tendency to prefer friends and potential partners who are similar to oneself</option></select>
-- Which of the following might explain why we like music better when we have heard it before? <select class='solveme' data-answer='["Mere exposure"]'> <option></option> <option>Reciprocity</option> <option>Mere exposure</option> <option>Personal preferences</option></select>
+- What is homophily? <select class='webex-solveme' data-answer='["The tendency to prefer friends and potential partners who are similar to oneself"]'> <option></option> <option>A preference for same-sex partners</option> <option>The tendency to marry in-group members</option> <option>The tendency to prefer friends and potential partners who are similar to oneself</option></select>
+- Which of the following might explain why we like music better when we have heard it before? <select class='webex-solveme' data-answer='["Mere exposure"]'> <option></option> <option>Reciprocity</option> <option>Mere exposure</option> <option>Personal preferences</option></select>
 
 ### Beauty - Myths & Debates
 
-<iframe src=" https://www.youtube.com/embed/MnHqJquC_3w?rel=0&modestbranding=1&loop=1&playlist=MnHqJquC_3w " allowfullscreen width=80% height=350></iframe>
+<iframe src=" https://www.youtube.com/embed/MnHqJquC_3w?rel=0&modestbranding=1&loop=1 " allowfullscreen width=80% height=350></iframe>
 
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
@@ -48,12 +48,12 @@ Before you move on, take a moment to reflect on the content of the video and ans
 
 ### Maintaining close relationships 
 
-<iframe src=" https://www.youtube.com/embed/Bhiv1MtV4uE?rel=0&modestbranding=1&loop=1&playlist=Bhiv1MtV4uE " allowfullscreen width=80% height=350></iframe>
+<iframe src=" https://www.youtube.com/embed/Bhiv1MtV4uE?rel=0&modestbranding=1&loop=1 " allowfullscreen width=80% height=350></iframe>
 
 Before you move on, take a moment to reflect on the content of the video and answer the following questions:
 
 - How would you explain the findings that social connections - and especially stable romantic relationships - are associated with sharply reduced mortality? If you want to find out more about that, you can have a look at [this article](https://www.nhs.uk/news/mental-health/loneliness-increases-risk-of-premature-death/){target="_blank"} on the brilliant *Behind the headlines* site created by the NHS that explains the science behind headlines
-- What are the key elements of love, according to Sternberg's triangular theory? <select class='solveme' data-answer='["Intimacy, Passion, Commitment"]'> <option></option> <option>Liking, Exposure, Similarity</option> <option>Intimacy, Passion, Commitment</option> <option>Values, Trust, Empathy</option></select>
+- What are the key elements of love, according to Sternberg's triangular theory? <select class='webex-solveme' data-answer='["Intimacy, Passion, Commitment"]'> <option></option> <option>Liking, Exposure, Similarity</option> <option>Intimacy, Passion, Commitment</option> <option>Values, Trust, Empathy</option></select>
 
 
 ## Recommended readings
